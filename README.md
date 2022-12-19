@@ -1,6 +1,6 @@
 # PV-System-Simulation
 ## A study and simulation environment for PV systems in India
-### Aditya Pandey and Amal Nair
+### Aditya Pandey
 
 The aim of this project is to study and ultimately build out an active simulation environment of various solar photovoltaic designs and configurations. Moreover, it seeks to simulate the electric yield, profitability, and impact of such projects as a means for driving consumer behavior. The goal here is to provide people with an accurate visualization and information breakdown, to provide clarity towards the decision to switch to solar. 
 
